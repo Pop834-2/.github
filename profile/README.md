@@ -98,5 +98,3 @@
 - [GitHub Repository](https://github.com/Delta-Executor-APK-New-Ubdate)
 
 ---
-
-<!-- <meta name="google-site-verification" content="le6F7-p4r4XYxjFu8uy7xTGedGoZDIsnW2Hz1OSX9dA" /> -->
