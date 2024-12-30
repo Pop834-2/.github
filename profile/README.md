@@ -1,6 +1,7 @@
 # Delta Executor APK v654 (New Update 2025)
 
-<meta name="google-site-verification" content="le6F7-p4r4XYxjFu8uy7xTGedGoZDIsnW2Hz1OSX9dA">
+<meta name="google-site-verification" content="le6F7-p4r4XYxjFu8uy7xTGedGoZDIsnW2Hz1OSX9dA" />
+
 
 
 ![Delta Executor Logo](https://github.com/user-attachments/assets/b09d319a-9a2d-40bd-ba50-155978bcc89a)
