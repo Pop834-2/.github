@@ -88,12 +88,6 @@ With its intuitive design, enhanced security, and cross-platform compatibility, 
 
 ---
 
-## 🔗 <span style="font-family: Verdana, sans-serif; font-size: 24px;">Links</span>
-
-- [Official Website](https://www.apkbros.com)  
-- [Download Delta Executor APK v656](https://www.apkbros.com/delta-executor-v654-apk-download-for-android/)  
-- [GitHub Repository](https://github.com/Delta-Executor-APK-New-Ubdate)
-
 ---
 
 ## 📌 <span style="font-family: Arial, sans-serif; font-size: 24px;">Conclusion</span>
@@ -101,5 +95,3 @@ With its intuitive design, enhanced security, and cross-platform compatibility, 
 <p style="font-family: Georgia, serif; font-size: 18px;">
 <b>Delta Executor APK v656</b> is your ultimate tool for unlocking the full potential of Roblox gameplay. Download it today and start exploring endless possibilities!
 </p>
-
-[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-green?style=for-the-badge)](https://www.apkbros.com/delta-executor-v654-apk-download-for-android/)
