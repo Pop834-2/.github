@@ -18,13 +18,7 @@ Download the latest **Delta Executor APK v656** to take your Roblox gameplay to 
 
 [![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-green?style=for-the-badge)](https://www.apkbros.com/delta-executor-v654-apk-download-for-android/)
 
----
 
-## 📥 Download Delta Executor APK v654
-
-[![Download Delta Executor](https://img.shields.io/badge/Download-Delta%20Executor-green?style=for-the-badge)](https://github.com/Delta-Executor-APK-New)
-
----
 ## What's New in Delta Executor APK v656 (2025 Update)
 
 ### 🚀 Enhanced Performance
